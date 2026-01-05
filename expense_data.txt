@@ -1,0 +1,10 @@
+{'ID': 1, 'Date': '01-01-2025', 'Category': 'Food', 'Description': 'Lunch', 'Amount': 120}
+{'ID': 2, 'Date': '02-01-2025', 'Category': 'Travel', 'Description': 'Bus Fare', 'Amount': 40}
+{'ID': 3, 'Date': '03-01-2025', 'Category': 'Books', 'Description': 'Notebook', 'Amount': 150}
+{'ID': 4, 'Date': '04-01-2025', 'Category': 'Food', 'Description': 'Snacks', 'Amount': 60}
+{'ID': 5, 'Date': '05-01-2025', 'Category': 'Bills', 'Description': 'Mobile Recharge', 'Amount': 299}
+{'ID': 6, 'Date': '06-01-2025', 'Category': 'Travel', 'Description': 'Auto', 'Amount': 80}
+{'ID': 7, 'Date': '07-01-2025', 'Category': 'Food', 'Description': 'Dinner', 'Amount': 180}
+{'ID': 8, 'Date': '08-01-2025', 'Category': 'Shopping', 'Description': 'Clothes', 'Amount': 900}
+{'ID': 9, 'Date': '09-01-2025', 'Category': 'Education', 'Description': 'Online Course', 'Amount': 500}
+{'ID': 10, 'Date': '10-01-2025', 'Category': 'Misc', 'Description': 'Stationery', 'Amount': 90}
